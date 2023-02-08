@@ -1,1 +1,0 @@
-<h1>After your meal, you encounter a dog by your feet.</h1>
