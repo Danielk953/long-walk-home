@@ -1,5 +1,5 @@
 You got passed the dog but you notice you friend ahead.
 
-[Chat for a bit](situations/friends-house.md)
+[Chat for a bit](friends-house.md)
 <br>
-[Rush by](situations/detour.md)
+[Rush by](detour.md)
