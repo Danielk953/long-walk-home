@@ -1,3 +1,3 @@
 # long-walk-home
 
-[Began Your Journey](dismissal.md)
+[Begin Your Journey](situations/dismissal.md)

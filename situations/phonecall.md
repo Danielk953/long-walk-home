@@ -1,4 +1,4 @@
 Recieved a phone call while on your walk, Do you pick it up, or let it ring?
 
-[Pick up](store.md)
-[Ignore phonecall](familiar-voice.md)
+[Pick up](situations/store.md)
+[Ignore phonecall](situations/familiar-voice.md)
